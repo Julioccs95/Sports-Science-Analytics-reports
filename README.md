@@ -10,4 +10,5 @@ Offensive analysis involved mapping shot coordinates and categorizing each shot 
 - Shot-on-target evaluation
 - Expected goals (xG) analysis
 - Opponent comparison
-- Tactical trend identification
+- Tactical trend analysis
+- Team collaboration
